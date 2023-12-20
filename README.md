@@ -14,7 +14,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ### 1-Norm of a Matrix
 
 ```
-# program to find the 1-norm of a matrrix
+# program to find the 1-norm of a matrix
 # Developed by : Hariharan A
 # Register no : 212223110013
 
@@ -46,7 +46,7 @@ print("{:.2f}".format(norm))
 ### Infinity Norm of a Matrix
 
 ```
-# Program to find Infinity-norm of a matrIx.
+# Program to find Infinity-norm of a matrix.
 # Developed by: Hariharan A
 # RegisterNumber: 212223110013
 
